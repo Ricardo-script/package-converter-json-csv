@@ -1,10 +1,14 @@
 {
   "name": "converter-json-csv",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "function to export json data to csv",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardo-script/package-converter-json-csv" 
   },
   "keywords": [
     "csv",
